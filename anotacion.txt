@@ -34,4 +34,11 @@ Conflictos
 1-abrir el archivo en Conflictos
 2-borrar el que no es indicado.
 
+Desde github
+1-git push origin master //salta el error
+2-git add .
+3- git commit -m "modificando localmente el archivo"
+4- git push origin master //salta otro error
+5- git pull origin master //para traer los cambios de mi compañero
+6- solucionar el conflicto abriendo el codigo.
 
