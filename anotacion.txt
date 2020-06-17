@@ -1,10 +1,10 @@
 Pasos para realizar un proyecto con git
 
 1- mkdir para crear carpeta
-2- touch anotacion.txt      // creo un archivo de texto
+2- touch index.php      // creo un archivo de texto
 3- control + l              // para limpiar pantalla
 4- git init                 // CREAAAA EL PROYECTOOO en git
-5- git add anotacion.txt    // para agregar un archivo especifico
+5- git add index.php    // para agregar un archivo especifico
 6- git add .                // para agregar todos los archivo al proyecto
 7- git commit -M "primerCommit" //agrego el primer commit
 8- git status               // ver modificaciones
@@ -21,8 +21,10 @@ Pasos para sincronizar a github.
 
 
 1- Crear proyecto
-2- git remote add origin https://github.com/ //pegar el link que te brinda github
-3- git push -u oringin master // hacer un push del proyecto creado
-4- git branch Modificacion //estoy haciendo una rama
-5- git checkout Modificacion // me paro sobre la rama
+2- git remote add origin https://github.com/    //pegar el link que te brinda github
+3- git push -u oringin master                   // hacer un push del proyecto creado
+4- git branch Modificacion                      //estoy haciendo una rama
+5- git checkout Modificacion                    // me paro sobre la rama
 6- code anotacion.txt
+7- ls                                           //para ver archivos
+8- git merge                                    //para unir /mergear la Modificacion
