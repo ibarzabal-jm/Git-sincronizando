@@ -28,3 +28,10 @@ Pasos para sincronizar a github.
 6- code anotacion.txt
 7- ls                                           //para ver archivos
 8- git merge                                    //para unir /mergear la Modificacion
+
+
+Conflictos
+1-abrir el archivo en Conflictos
+2-borrar el que no es indicado.
+
+
